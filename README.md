@@ -16,7 +16,7 @@
 
 *从PyPI及其他源码安装模块*
 
-* [ ] [标准库参考](https://docs.python.org/3/library/index.html)（进行中）
+* [ ] [标准库参考手册](./标准库参考手册/index.md)（进行中）
 
 *请经常查阅、熟记于心*
 
